@@ -1,6 +1,6 @@
 /*BEGIN PS4 White Controller Styling*/
 .edit .controller.ds4.white {
-    background-image: url(https://gitlab.com/kmacdone/blue-ps4-controller/-/blob/main/base.png);
+    background-image: url(https://leadedhunter9.github.io/blue-ps4-controller.github.io/base.png);
 }
 
 .edit .ds4.white.disconnected {
@@ -8,19 +8,19 @@
 }
 
 .edit .ds4.white .trigger {
-    background-image: url(https://gitlab.com/kmacdone/blue-ps4-controller/-/blob/main/triggers.png);
+    background-image: url(https://leadedhunter9.github.io/blue-ps4-controller.github.io/triggers.png);
 }
 
 .edit .ds4.white .bumper {
-    background-image: url(https://gitlab.com/kmacdone/blue-ps4-controller/-/blob/main/bumper.png);
+    background-image: url(https://leadedhunter9.github.io/blue-ps4-controller.github.io/bumper.png);
 }
 
 .edit .ds4.white .touchpad.pressed {
-    background-image: url(https://gitlab.com/kmacdone/blue-ps4-controller/-/blob/main/touchpad.png);
+    background-image: url(https://leadedhunter9.github.io/blue-ps4-controller.github.io/touchpad.png);
 }
 
 .edit .ds4.white .back, .ds4 .start {
-    background-image: url(https://gitlab.com/kmacdone/blue-ps4-controller/-/blob/main/start.png);
+    background-image: url(https://leadedhunter9.github.io/blue-ps4-controller.github.io/start.png);
 }
 
 .edit .ds4.white .button {
@@ -28,11 +28,11 @@
 }
 
 .edit .ds4.white .stick {
-    background-image: url(https://gitlab.com/kmacdone/blue-ps4-controller/-/blob/main/sticks.png);
+    background-image: url(https://leadedhunter9.github.io/blue-ps4-controller.github.io/sticks.png);
 }
 
 .edit .ds4.white .face {
-    background-image: url(https://gitlab.com/kmacdone/blue-ps4-controller/-/blob/main/dpad.png);
+    background-image: url(https://leadedhunter9.github.io/blue-ps4-controller.github.io/dpad.png);
 }
 
 /*END PS4 White Controller Styling*/
